@@ -1,6 +1,6 @@
 name       : clutter-gst-2.0
 version    : 2.0.14
-release    : 1
+release    : 2
 source     :
     - http://ftp.gnome.org/pub/GNOME/sources/clutter-gst/2.0/clutter-gst-2.0.14.tar.xz : 5d7d8c1a31748e9039b7ba9dae9f412ec065715008adffdfde332dd34e7d0535
 license    : LGPL-2.1+
